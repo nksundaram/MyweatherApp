@@ -22,7 +22,7 @@
                     HeightRequest="75"/>
             <Label x:Name="cityTemp"
                    FontSize="75"
-                   Text=weather
+                   Text="0"
                    FontAttributes="Italic"
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
